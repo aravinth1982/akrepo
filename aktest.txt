@@ -1,3 +1,6 @@
 This is my new file 
 I am planning update
 lets enjoy the Git handson 
+
+changes done and we are working on it 
+
